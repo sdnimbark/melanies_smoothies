@@ -2,7 +2,7 @@
 import streamlit as st
 from snowflake.snowpark.functions import col
 import streamlit as st
-import pandas
+import pandas as pd
 import requests
 
 # Write directly to the app
